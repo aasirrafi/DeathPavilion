@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DisableRenderer" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Horror Sfx\Flooded_Grounds\Scripts\DisableRenderer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharController_Motor" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIBAgEBiAACIAAACAAAAAAAAADgQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Horror Sfx\Flooded_Grounds\Scripts\FPSController\CharController_Motor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FPSDisplay">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Assets\Horror Sfx\Flooded_Grounds\Scripts\FPSDisplay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WaterFloat" Collapsed="true">
+    <Position X="4" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Horror Sfx\Flooded_Grounds\Scripts\WaterFloat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ArrayTest">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Assets\My scripts\ArrayTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BatteryPower" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAQAAAAAAAAAAAAAgAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\My scripts\BatteryPower.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyAttack">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAgAgAOAIhgAAAABEJACAQAAAAAIAQAAAAQEIAAA=</HashCode>
+      <FileName>Assets\My scripts\EnemyAttack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyAttackUpdated" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAggAAAGQAhgAAAAABAACAQAEAAAAAQQAAAQAAAgA=</HashCode>
+      <FileName>Assets\My scripts\EnemyAttackUpdated.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyDamage" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAAAACEAAAgAAAAAIAABAAAAAAQAQAAAAAEAAAA=</HashCode>
+      <FileName>Assets\My scripts\EnemyDamage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyMove" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQgAAKQAAAAAIgAAAAKIAgAAAAAAAAAAAAEA0AI=</HashCode>
+      <FileName>Assets\My scripts\EnemyMove.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyMoveUpdated" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAgAgAACQAAAAAIAAAAgKAEgAAAAAAARAAAAAAQAI=</HashCode>
+      <FileName>Assets\My scripts\EnemyMoveUpdated.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyWeaponDamage" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAUBAAAAQAAAA=</HashCode>
+      <FileName>Assets\My scripts\EnemyWeaponDamage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyWeaponPickup">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\My scripts\EnemyWeaponPickup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HealthScript" Collapsed="true">
+    <Position X="7.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAAAAACAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\My scripts\HealthScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inventory" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQgiAAMADiAAEAcABAQSAHBABDkogAQgAg4ARQRGAE=</HashCode>
+      <FileName>Assets\My scripts\Inventory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelClear" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAgAACAAAAAAAAAAAAAAAAAAAAABQAAAAQAEAAA=</HashCode>
+      <FileName>Assets\My scripts\LevelClear.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LHRotate">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAACAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\My scripts\LHRotate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LightSettingsPlayer">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAQAAgACAAABAAAAAAAAAACAAAAAAAAAAgABAAAEA=</HashCode>
+      <FileName>Assets\My scripts\LightSettingsPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LungsPower">
+    <Position X="4" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAIAAAAAAAAAAAAAAAQAAABAAIAAAAA=</HashCode>
+      <FileName>Assets\My scripts\LungsPower.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NoteReader" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACFAIaAAAAAwAAAAAEAQAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Assets\My scripts\NoteReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pickups" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAQEAACAACASAiAAABAAEAAEAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\My scripts\Pickups.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerAttacks" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\My scripts\PlayerAttacks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveScript" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QEAgAAgAAggAABAFgIiAAEBAgEAAQBBIkAAAAQgAAoA=</HashCode>
+      <FileName>Assets\My scripts\SaveScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleShoot" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQIAAAEACAAhAAAAAAAUAAAAAQoAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Assets\My Weapons\Nokobot\Modern Guns - Handgun\_Demo Assets\SimpleShoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuSceneLoader" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAAIAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\SampleScenes\Menu\Scripts\MenuSceneLoader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PauseMenu" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAAAAAAAAAAQAAAAAAAAAAAAAQgAQgQAAAAAAAAEA=</HashCode>
+      <FileName>Assets\SampleScenes\Menu\Scripts\PauseMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SceneAndURLLoader" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAIAEA=</HashCode>
+      <FileName>Assets\SampleScenes\Menu\Scripts\SceneAndURLLoader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CameraSwitch">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEQAAAAIIAAAAAAAACAA=</HashCode>
+      <FileName>Assets\SampleScenes\Scripts\CameraSwitch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelReset" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\SampleScenes\Scripts\LevelReset.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Nokobot.Assets.Crossbow.CrossbowShoot" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAAAAACAAAAEAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Assets\My Weapons\Nokobot\Sci-Fi_Crossbow\Demo\Scripts\CrossbowShoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityStandardAssets.SceneUtils.ParticleSceneControls" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BtQAAAAIYAAAAggAAKAAAACAAQACAAAJIABAQAABgEA=</HashCode>
+      <FileName>Assets\SampleScenes\Scripts\ParticleSceneControls.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityStandardAssets.SceneUtils.PlaceTargetWithMouse">
+    <Position X="6" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAEAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityStandardAssets.SceneUtils.SlowMoButton" Collapsed="true">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAABIACAAAAAAAAAAAAAQBAAAAAAAACAAAQIAAAA=</HashCode>
+      <FileName>Assets\SampleScenes\Scripts\SlowMoButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
